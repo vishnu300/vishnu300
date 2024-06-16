@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [www.github_12](https://github.com/vishnu300)
+- 👨‍💻 All of my projects are available at [www.github](https://github.com/vishnu300)
 
 - 📝 I regularly write articles on Machine learning [LinkedIN](https://www.linkedin.com/in/vishnu-am)
 
