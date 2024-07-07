@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">A Passionate Data Scientist from India</h3>
+<h1 align="center">A Passionate Data Scientist from India</h1>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi 👋, I'm Vishnu;I'm Data scientist and Machine learning specialist" width="70%" />
+<br><br>
+<pre>
+    💼 MSc • Data Scientist • ML Engineer
+    💻 Python programming languages • DataBase • Django
+    📖 Model architecture • Analytics • Cloud
+    🎮 Music • Games  • Code • Art
+    🐾 ⚽ 
+</pre>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-hubname&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu300" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-hubname" alt="vishnu300" /></a> </p>
@@ -19,18 +29,20 @@
 
 - 📄 Know about my experiences [Profile](https://github.com/vishnu300)
 
-## My Mojar Projects 
-* Air Pollution Detection
-* Image Classification
-* Product Recommention
-* Email spam detection
-* Sentimental analysis
-* Figma Design
-* DjangoFrame work
-* Ai Model easy Life style 
--- Currently doing 
-* Finance wealth manage ML
--- To Manage all details in single ML
+  <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/vishnu300/count.svg" />
+</p>
+<h1 align="center">__My Mojar Projects__</h1>
+<div align="center">
+<pre>
+    💼 Air Pollution Detection • Image Classification • Product Recommention 
+  • Product Recommention • Email spam detection 
+  • Sentimental analysis • Figma Design • Ai Model easy Life style Currently doing  
+  • Finance wealth manage ML To Manage all details in single ML 
+
+</pre>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
