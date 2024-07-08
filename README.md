@@ -117,6 +117,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu300&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-hubname&show_icons=true&locale=en" alt="git-hubname" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu300&show_icons=true&locale=en" alt="git-hubname" /></p>
 
 
