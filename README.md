@@ -107,7 +107,6 @@
 <a href="https://github.com/vishnu300/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Sklearn">
 </a>
-
 </p>
 
 
